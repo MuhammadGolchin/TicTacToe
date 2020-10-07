@@ -1,0 +1,177 @@
+﻿/*****************Font Styles*****************/
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: IRANSans !important;
+    line-height: 30px;
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_Bold.eot');
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff2/IRANSansWeb(FaNum)_Bold.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/woff/IRANSansWeb(FaNum)_Bold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_Medium.eot');
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_Medium.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff2/IRANSansWeb(FaNum)_Medium.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/woff/IRANSansWeb(FaNum)_Medium.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/IRANSansWeb(FaNum)_Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_Light.eot');
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_Light.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff2/IRANSansWeb(FaNum)_Light.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/woff/IRANSansWeb(FaNum)_Light.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/IRANSansWeb(FaNum)_Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_UltraLight.eot');
+    src: url('../fonts/eot/IRANSansWeb(FaNum)_UltraLight.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff2/IRANSansWeb(FaNum)_UltraLight.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/woff/IRANSansWeb(FaNum)_UltraLight.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/IRANSansWeb(FaNum)_UltraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/eot/IRANSansWeb(FaNum).eot');
+    src: url('../fonts/eot/IRANSansWeb(FaNum).eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff2/IRANSansWeb(FaNum).woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/woff/IRANSansWeb(FaNum).woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/IRANSansWeb(FaNum).ttf') format('truetype');
+}
+*, span, p, h1, h2, h3, h4, h5, h6, input, textarea ,div{
+    font-family: IRANSans !important;
+    line-height: 30px !important;
+    text-align:justify !important;
+}
+/**, span, p, h1, h2, h3, h4, h5, h6,input, textarea {
+     font-family: IRANSans !important;
+}*/
+
+/*@font-face {
+    font-family: Shabnam-FD;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Shabnam-FD.eot"),
+        url("../fonts/Shabnam-FD.woff2") format('woff2'),
+        url("../fonts/Shabnam-FD.woff") format('woff'),
+        url("../fonts/Shabnam-FD.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Shabnam-FD;
+    font-style: normal;
+    font-weight: bold;
+    src: url("../fonts/Shabnam-Bold-FD.eot"),
+    url("../fonts/Shabnam-Bold-FD.woff2") format('woff2'),
+    url("../fonts/Shabnam-Bold-FD.woff") format('woff'),
+    url("../fonts/Shabnam-Bold-FD.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Shabnam-FD;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../fonts/Shabnam-Light-FD.eot"),
+    url("../fonts/Shabnam-Light-FD.woff2") format('woff2'),
+    url("../fonts/Shabnam-Light-FD.woff") format('woff'),
+    url("../fonts/Shabnam-Light-FD.ttf") format('truetype');
+}
+*/
+/**, span, p, h1, h2, h3, h4, h5, h6,input, textarea {
+    font-family: Shabnam-FD;
+}*/
+
+.text-xsmall {
+    font-weight: normal;
+    font-size: 0.75rem;
+}
+
+.text-small {
+    font-weight: normal;
+    font-size: 0.85rem;
+}
+
+.text-medium {
+    font-weight: normal;
+    font-size: 1.0rem;
+}
+
+.text-large {
+    font-weight: normal;
+    font-size: 1.2rem;
+}
+
+.text-xlarge {
+    font-weight: normal;
+    font-size: 1.4rem;
+}
+
+.text-x2large {
+    font-weight: normal;
+    font-size: 1.6rem;
+}
+
+.text-x3large {
+    font-weight: normal;
+    font-size: 1.8rem;
+}
+
+.text-x4large {
+    font-weight: normal;
+    font-size: 2rem;
+}
+
+.text-x5large {
+    font-weight: normal;
+    font-size: 2.2rem;
+}
+
+.text-x6large {
+    font-weight: normal;
+    font-size: 2.4rem;
+}
+
+.text-x7large {
+    font-weight: normal;
+    font-size: 2.6rem;
+}
+
+.text-x8large {
+    font-weight: normal;
+    font-size: 2.8rem;
+}
+
+.text-x9large {
+    font-weight: normal;
+    font-size: 3rem;
+}
+
+.text-b {
+    font-weight: bold;
+}
+
+.text-l {
+    font-weight: 300;
+}

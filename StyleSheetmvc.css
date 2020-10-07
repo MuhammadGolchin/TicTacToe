@@ -60,7 +60,7 @@ body {
     url('https://raw.githubusercontent.com/MuhammadGolchin/TicTacToe/master/fonts/woff/IRANSansWeb(FaNum).woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
     url('https://raw.githubusercontent.com/MuhammadGolchin/TicTacToe/master/fonts/ttf/IRANSansWeb(FaNum).ttf') format('truetype');
 }
-*, span, p, h1, h2, h3, h4, h5, h6, input, textarea ,div{
+*, span, p, h1, h2, h3, h4, h5, h6, input, textarea ,div , ul ,li ,ol{
     font-family: IRANSans !important;
     line-height: 30px !important;
     text-align:justify !important;
